@@ -8,10 +8,11 @@ const DeadZerok = {
   code: [Javascript, HTML, CSS, Python, Java, C#, C++],
   tools: []
  }
+```
 
 you can find me 🌎:
 
- -
+ - [tiktok](https://www.tiktok.com/@deadzerok?is_from_webapp=1&sender_device=pc)
 
 <!--
 **DeadZerok/DeadZerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
