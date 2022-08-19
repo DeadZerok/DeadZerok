@@ -3,16 +3,11 @@
 
 
 ```javascript
-const thai = {
+const DeadZerok = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java, C#, C++],
   tools: []
-  
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
+ }
 
 
 
