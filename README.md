@@ -13,6 +13,7 @@ const DeadZerok = {
 you can find me 🌎:
 
  - [tiktok](https://www.tiktok.com/@deadzerok?is_from_webapp=1&sender_device=pc)
+ - [Instagram](https://www.instagram.com/ivan__varona_o/)
 
 [![DeadZerok's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadZerok)](https://github.com/DeadZerok/github-readme-stats)
 <!--
