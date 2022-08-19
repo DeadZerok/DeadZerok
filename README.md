@@ -15,7 +15,7 @@ you can find me 🌎:
  - [tiktok](https://www.tiktok.com/@deadzerok?is_from_webapp=1&sender_device=pc)
  - [Instagram](https://www.instagram.com/ivan__varona_o/)
 
-[![DeadZerok's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadZerok)](https://github.com/DeadZerok/github-readme-stats)
+[![DeadZerok's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadZerok&show_icons=true&theme=tokyonight)](https://github.com/DeadZerok/github-readme-stats)
 <!--
 **DeadZerok/DeadZerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
