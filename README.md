@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com//ivan.arleyvarona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/ivan.arleyvarona" height="30" width="40" /></a>
-<a href="https://instagram.com//ivan__varona_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/ivan__varona_o" height="30" width="40" /></a>
+<a href="https://instagram.com//ivan_varona_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/ivan__varona_o" height="30" width="40" /></a>
  
 </p>
 
