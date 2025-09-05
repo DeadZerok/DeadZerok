@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="https://instagram.com//ivan_varona_o" target="blank">
+    <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt="https://instagram.com//ivan_varona_o" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/ivanvarona" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg"  height="30" width="40" /></a>
+  <a href="https://www.tiktok.com/@ivan.arley7" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/tiktok.svg" height="30" width="40" /></a> 
+  <a href="https://gitlab.com/ivanarleyvarona" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/gitlab.svg" height="30" width="40" /></a> 
+  
+  </p>
+
 <h1 align="center"><b>Hola, Yo soy Ivan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center"><strong>Ingeniero Informático | Apasionado por el desarrollo web, IoT y software creativo</strong></h4>
