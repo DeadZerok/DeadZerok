@@ -28,6 +28,8 @@ Soy un desarrollador con enfoque en la creación de soluciones tecnológicas que
 - 👨‍💻 Espero colaborar en proyectos de código abierto.
 - ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte
 - Fuera de la tecnología, 🎮 jugar videojuegos, 🎵 escuchar música y automatizar.
+- 📫 Comuniquese conmigo en: <a href="ivanarley0398@gmail.com">valenwerlecontacto@gmail.com</a>
+
 ## Mis habilidades incluyen
 
 <h4>Idiomas</h4>
@@ -55,60 +57,43 @@ Soy un desarrollador con enfoque en la creación de soluciones tecnológicas que
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
   </span>
-
-  <img src= "">
  
 <h4>Otras herramientas y tecnologías</h4>
 
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoC">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&lo">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </span>
   
 <br><br>
 
-## Echa un vistazo a mis redes sociales            | comunicate conmigo                  |  otro
 
 
-
-<p align="left">
-  <a href="https://instagram.com//ivan_varona_o" target="blank">
-    <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt="https://instagram.com//ivan_varona_o" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/ivanvarona" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg"  height="30" width="40" /></a>
-  <a href="https://instagram.com//ivan_varona_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/ivan__varona_o" height="30" width="40" /></a> 
-  
-  </p>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deadzerok&label=Profile%20views&color=0e75b6&style=flat" alt="deadzerok" /> </p>
 
 ```javascript
 const DeadZerok = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java, C#, C++],
-  tools: []
+  code: [HTML, CSS, Javascript, Python, Java, C#, C++],
+  tools: [Docker, ArduinoIde, PlatformIo, Visual studio code ...]
  }
 ```
 
-you can find me 🌎:
 
- - [tiktok](https://www.tiktok.com/@deadzerok?is_from_webapp=1&sender_device=pc)
- - [Instagram](https://www.instagram.com/ivan__varona_o/)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/DeadZerok">
+        <img src="https://github-readme-stats.vercel.app/api?username=DeadZerok&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DeadZerok">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadZerok&theme=material-palenight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![DeadZerok's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadZerok&show_icons=true&theme=tokyonight)](https://github.com/DeadZerok/github-readme-stats)
-<!--
-**DeadZerok/DeadZerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deadzerok&label=Profile%20views&color=0e75b6&style=flat" alt="deadzerok" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
